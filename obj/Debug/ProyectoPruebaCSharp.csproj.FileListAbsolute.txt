@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\bin\Debug\ProyectoPruebaCSharp.exe.config
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\bin\Debug\ProyectoPruebaCSharp.exe
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\bin\Debug\ProyectoPruebaCSharp.pdb
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.Form1.resources
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.Properties.Resources.resources
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.exe
+C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.pdb
