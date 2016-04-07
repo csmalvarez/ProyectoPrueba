@@ -7,3 +7,12 @@ C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\Pro
 C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.csproj.GenerateResource.Cache
 C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.exe
 C:\Users\usuario\Desktop\ProyectoPruebaCSharp\ProyectoPruebaCSharp\obj\Debug\ProyectoPruebaCSharp.pdb
+C:\Users\WsAsus\Desktop\prueba\bin\Debug\ProyectoPruebaCSharp.exe.config
+C:\Users\WsAsus\Desktop\prueba\obj\Debug\ProyectoPruebaCSharp.exe
+C:\Users\WsAsus\Desktop\prueba\obj\Debug\ProyectoPruebaCSharp.pdb
+C:\Users\WsAsus\Desktop\prueba\bin\Debug\ProyectoPruebaCSharp.exe
+C:\Users\WsAsus\Desktop\prueba\bin\Debug\ProyectoPruebaCSharp.pdb
+C:\Users\WsAsus\Desktop\prueba\obj\Debug\ProyectoPruebaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\WsAsus\Desktop\prueba\obj\Debug\ProyectoPruebaCSharp.Form1.resources
+C:\Users\WsAsus\Desktop\prueba\obj\Debug\ProyectoPruebaCSharp.Properties.Resources.resources
+C:\Users\WsAsus\Desktop\prueba\obj\Debug\ProyectoPruebaCSharp.csproj.GenerateResource.Cache
